@@ -1,0 +1,15 @@
+creation_timestamp: 1764014703649
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1764014703649
+model_id: m-a948574eb8c642c7afbf9e82acd422e7
+name: CNN_Model_2
+run_id: 1b1eee48b31042e996eda30d40858ccc
+run_link: ''
+source: models:/m-a948574eb8c642c7afbf9e82acd422e7
+status: READY
+status_message: null
+storage_location: file:///f:/mlflow/mlruns/670819372575881117/models/m-a948574eb8c642c7afbf9e82acd422e7/artifacts
+user_id: null
+version: 1

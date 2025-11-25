@@ -1,0 +1,15 @@
+creation_timestamp: 1764014703428
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1764014703428
+model_id: m-c2145ef0eb55443d9a6e5658b6013751
+name: Random Forest
+run_id: 43d8812d80a147d6bca49d45f1f0336b
+run_link: ''
+source: models:/m-c2145ef0eb55443d9a6e5658b6013751
+status: READY
+status_message: null
+storage_location: file:///f:/mlflow/mlruns/670819372575881117/models/m-c2145ef0eb55443d9a6e5658b6013751/artifacts
+user_id: null
+version: 1

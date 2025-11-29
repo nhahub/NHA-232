@@ -6,6 +6,12 @@ subtitles in real time.
 
 ------------------------------------------------------------------------
 
+# Data Source Link
+
+🧏 **https://drive.google.com/drive/folders/1kqM-0Y3AifgFUxtL0EExa1YAPkuJD3gw?usp=drive_link**\
+
+------------------------------------------------------------------------
+
 ## 📋 Table of Contents
 
 -   💡 Project Overview\
